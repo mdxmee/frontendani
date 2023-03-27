@@ -1,6 +1,6 @@
 import React from 'react'
 import Header from './Components/Pages/Header'
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { Routes, Route } from 'react-router-dom'
 import Createanime from "./Components/Createanime"
 import Manga from "./Components/Manga"
 import Chat from './Components/Chat'
